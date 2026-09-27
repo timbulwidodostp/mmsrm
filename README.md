@@ -1,6 +1,8 @@
 # mmsrm
 Multidimensional Marginally SufficientRasch Model (MMSRM) Use mmsrm With STATA 19
 
+https://www.youtube.com/watch?v=GRccWOtC13g
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
